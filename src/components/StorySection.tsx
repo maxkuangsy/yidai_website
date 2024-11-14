@@ -7,12 +7,12 @@ const StorySection: React.FC = () => {
   const stories = [
     {
       title: t('stories.jadeCarving.title'),
-      image: '/image/story_jade_carving.png',
+      image: '/image/story_jade_carving_1.png',
       description: t('stories.jadeCarving.description'),
     },
     {
       title: t('stories.jadeCulture.title'),
-      image: '/image/story_jade_history.png',
+      image: '/image/story_jade_history_1.png',
       description: t('stories.jadeCulture.description'),
     },
   ];
